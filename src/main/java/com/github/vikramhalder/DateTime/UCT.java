@@ -1,4 +1,4 @@
-package com.github.vikramhalder.DateTime.DateFormatter;
+package com.github.vikramhalder.DateTime;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,6 @@
-package com.github.vikramhalder.DateTime.DateFormatter;
+package com.github.vikramhalder.DateTime;
+
+import com.github.vikramhalder.DateTime.CurrentDT;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

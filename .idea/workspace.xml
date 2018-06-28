@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="504be516-70eb-4bf6-a850-b02429d370d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/AllDT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/ConvertDT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/CurrentDT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/UCT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/ConvertDT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/CurrentDT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/Difference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/Increment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/UCT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -53,34 +46,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AllDT.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/AllDT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -521,6 +487,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/Object/UCT.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/ConvertDT.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/AllDT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/Difference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java" />
       </list>
     </option>
@@ -569,35 +536,6 @@
               <item name="DateTime" type="b2602c69:ProjectViewProjectNode" />
               <item name="DateTime" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DateTime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DateTime" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="DateTime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DateTime" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DateTime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DateTime" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DateTime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DateTime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DateTime" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DateFormatter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DateTime" type="b2602c69:ProjectViewProjectNode" />
@@ -732,7 +670,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15717000" />
+    <option name="totallyTimeSpent" value="16157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +683,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="13" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32843137" />
@@ -766,8 +703,8 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="19" visible="true" weight="0.32352942" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.33207262" />
+      <window_info anchor="bottom" id="Terminal" order="19" visible="true" weight="0.32352942" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.33207262" />
       <window_info anchor="bottom" id="Find" order="11" />
       <window_info anchor="right" id="Gradle" order="1" weight="0.1709531" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -811,7 +748,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/ConvertDT.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/ConvertDT.java</url>
           <line>36</line>
           <properties />
         </line-breakpoint>
@@ -1029,17 +966,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/CurrentDT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/UCT.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/UCT.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
@@ -1062,7 +989,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/UCT.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/ConvertDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/CurrentDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Difference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/UCT.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -1078,42 +1042,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/ConvertDT.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Increment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/Increment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4216">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/vikramhalder/DateTime/DateFormatter/AllDT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
